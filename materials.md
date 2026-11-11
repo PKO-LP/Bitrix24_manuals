@@ -7,4 +7,6 @@
 - **Работа в карточке.** [Поля и настройки](https://helpdesk.bitrix24.ru/open/22804914/) · [Таймлайн и комментарии](https://helpdesk.bitrix24.ru/open/23960160/) · [Дела](https://helpdesk.bitrix24.ru/open/21064046/) · [Задачи](https://helpdesk.bitrix24.ru/open/24212648/)
 - **Автоматизация и проверка.** [Роботы CRM](https://helpdesk.bitrix24.ru/open/24367166/) · [Робот «Поставить задачу»](https://helpdesk.bitrix24.ru/open/22892250/) · [Настройка времени](https://helpdesk.bitrix24.ru/open/20979178/) · [История CRM](https://helpdesk.bitrix24.ru/open/24296386/)
 
+- **Поиск и фильтры.** [Список сделок и сохранение фильтра](https://helpdesk.bitrix24.ru/open/27405366/) · [Курс «Битрикс24.CRM: Основы»](https://academy.1c-bitrix.ru/courses/?COURSE_ID=424&INDEX=Y)
+
 [К оглавлению](README.md)

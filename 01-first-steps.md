@@ -34,6 +34,8 @@
 
 ## Официальные инструкции
 
+- [Регистрация по электронной почте со скриншотами](https://www.bitrix24.ru/register/)
+- [Как привязать контакт к сделке](https://helpdesk.bitrix24.ru/open/27912504/)
 - [Как начать работать с CRM в Битрикс24](https://helpdesk.bitrix24.ru/open/26035204/)
 - [Как создать сделку](https://helpdesk.bitrix24.ru/open/26161116/)
 - [Как работать с канбаном](https://helpdesk.bitrix24.ru/open/21839648/)

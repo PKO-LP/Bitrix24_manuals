@@ -15,4 +15,6 @@
 
 - **Чек-листы и обслуживание базы.** [Чек-листы в задачах](https://helpdesk.bitrix24.ru/open/27333140/) · [Корзина CRM](https://helpdesk.bitrix24.ru/open/24668648/) · [Объединение дубликатов](https://helpdesk.bitrix24.ru/open/25343258/)
 
+- **Организация работы.** [Мой план](https://helpdesk.bitrix24.ru/open/17729742/) · [События календаря](https://helpdesk.bitrix24.ru/open/25489764/) · [Папки и файлы на Диске](https://helpdesk.bitrix24.ru/open/28166604/)
+
 [К оглавлению](README.md)

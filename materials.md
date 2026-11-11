@@ -9,4 +9,6 @@
 
 - **Поиск и фильтры.** [Список сделок и сохранение фильтра](https://helpdesk.bitrix24.ru/open/27405366/) · [Курс «Битрикс24.CRM: Основы»](https://academy.1c-bitrix.ru/courses/?COURSE_ID=424&INDEX=Y)
 
+- **Выполнение задач.** [Как открыть, выполнить и завершить задачу](https://helpdesk.bitrix24.ru/open/27047638/) · [Как принять результат при включённом контроле](https://helpdesk.bitrix24.ru/open/17789006/)
+
 [К оглавлению](README.md)

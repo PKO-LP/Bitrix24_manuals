@@ -52,4 +52,4 @@
 - [Битрикс24.CRM: Основы — курс для начинающих](https://academy.1c-bitrix.ru/courses/?COURSE_ID=424&INDEX=Y)
 - [Microsoft Learn — как устроены списки и сохранённые условия отбора в CRM](https://learn.microsoft.com/en-us/dynamics365/sales/customize-views)
 
-[К оглавлению](README.md) · [К каталогу материалов](materials.md)
+[К оглавлению](README.md) · [Дальше — урок 6. Задача по сделке](06-crm-task.md) · [К каталогу материалов](materials.md)

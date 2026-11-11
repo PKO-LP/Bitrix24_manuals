@@ -13,4 +13,6 @@
 
 - **Состав заказа и передача информации.** [Добавление товаров](https://helpdesk.bitrix24.ru/open/27964692/) · [Файлы и закреплённые комментарии в таймлайне](https://helpdesk.bitrix24.ru/open/23960160/)
 
+- **Чек-листы и обслуживание базы.** [Чек-листы в задачах](https://helpdesk.bitrix24.ru/open/27333140/) · [Корзина CRM](https://helpdesk.bitrix24.ru/open/24668648/) · [Объединение дубликатов](https://helpdesk.bitrix24.ru/open/25343258/)
+
 [К оглавлению](README.md)

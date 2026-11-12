@@ -19,4 +19,6 @@
 
 - **Версии и заметки.** [История изменений файла](https://helpdesk.bitrix24.ru/open/18869612/) · [Личный чат «Заметки»](https://helpdesk.bitrix24.ru/open/25210192/)
 
-[К оглавлению](README.md)
+- **Планирование доработки.** [Полная форма задачи и её настройки](https://helpdesk.bitrix24.ru/open/27359038/) · [Выполнение и завершение задачи](https://helpdesk.bitrix24.ru/open/27047638/)
+
+[К оглавлению](README.md)(README.md)

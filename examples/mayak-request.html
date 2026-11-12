@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Учебная форма заявки</title>
+  <style>
+    body { max-width: 36rem; margin: 3rem auto; padding: 0 1rem; font: 1rem/1.5 system-ui, sans-serif; }
+    input, button { font: inherit; padding: .5rem; }
+    label { display: block; margin-bottom: .35rem; }
+  </style>
+</head>
+<body>
+  <h1>Заявка на доставку</h1>
+  <p>Локальный учебный прототип. Данные остаются в браузере и не сохраняются.</p>
+  <form id="request">
+    <label for="customer">Имя клиента</label>
+    <input id="customer" type="text">
+    <button type="submit">Проверить заявку</button>
+  </form>
+  <p id="result" role="status"></p>
+  <script>
+    const form = document.getElementById('request');
+    const customer = document.getElementById('customer');
+    const result = document.getElementById('result');
+
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const name = customer.value.trim();
+
+      // Вставьте проверку имени здесь.
+
+      result.textContent = 'Заявка проверена: ' + name;
+    });
+  </script>
+</body>
+</html>

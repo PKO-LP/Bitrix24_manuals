@@ -17,4 +17,6 @@
 
 - **Организация работы.** [Мой план](https://helpdesk.bitrix24.ru/open/17729742/) · [События календаря](https://helpdesk.bitrix24.ru/open/25489764/) · [Папки и файлы на Диске](https://helpdesk.bitrix24.ru/open/28166604/)
 
+- **Версии и заметки.** [История изменений файла](https://helpdesk.bitrix24.ru/open/18869612/) · [Личный чат «Заметки»](https://helpdesk.bitrix24.ru/open/25210192/)
+
 [К оглавлению](README.md)
